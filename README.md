@@ -13,5 +13,5 @@ This project is built with:
 - Tailwind CSS
 
 
-
+To generate realistic mock data for development and dashboard testing. I have creates employee records with random names, regions, phone numbers, and timestamps, then generates SIM records mapped one-to-one with employees, including plan allowances and actual usage. Using this data, it calculates dashboard analytics such as total counts, region-wise distribution, and recent 7-day trends. 
 
